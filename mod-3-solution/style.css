@@ -1,0 +1,48 @@
+ body{
+     
+      background-color:pink;
+    }
+    .navbar-brand{
+      font-family:Arial, Helvetica, sans-serif;
+      font-size:30px;
+    }
+    h1{
+      font-size:40px;
+      font-family:fantasy;
+      color:black;
+    }
+    h2{
+      font-size:35px;
+      font-family:fantasy;
+    }
+   
+    .papdichaat{
+       background-image: url(https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2011/11/papdi-chaat-recipe.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    }
+    .momo{
+     background-image: url(https://135700-392364-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/11/whole-wheat-momos-recipe-2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    }
+    .paneertikka{
+      background-image: url(https://i.pinimg.com/originals/b5/04/c7/b504c7de6759dfdd03414c9c7da3e14f.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    } 
+    .text-justify{
+      opacity:0.7;
+    }
+    .text-capitalize{
+      font-size:18px;
+    }

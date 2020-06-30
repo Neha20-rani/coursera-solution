@@ -16,7 +16,7 @@
       font-family:fantasy;
     }
    
-    .papdichaat{
+    #papdichaat{
        background-image: url(https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2011/11/papdi-chaat-recipe.jpg);
     background-attachment: fixed;
     background-position: center;
@@ -24,7 +24,7 @@
     background-size: cover;
    
     }
-    .momo{
+    #momo{
      background-image: url(https://135700-392364-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/11/whole-wheat-momos-recipe-2.jpg);
     background-attachment: fixed;
     background-position: center;
@@ -32,7 +32,7 @@
     background-size: cover;
    
     }
-    .paneertikka{
+    #paneertikka{
       background-image: url(https://i.pinimg.com/originals/b5/04/c7/b504c7de6759dfdd03414c9c7da3e14f.jpg);
     background-attachment: fixed;
     background-position: center;
